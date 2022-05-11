@@ -3,7 +3,6 @@
 
 //ARRAY DE OBJETOS 
 
-
 const alunos = [
   { nome: 'Joao', notas: [5, 7.5, 8, 8, 4.5, 9] },
   { nome: 'Breno', notas: [10, 8.5, 10, 7.5, 9, 6.5] },
